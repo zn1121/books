@@ -1,0 +1,27 @@
+{
+    "name": "books",
+      "version": "1.0.0",
+        "description": "在线电子书",
+          "main": "index.js",
+          "scripts": {
+                "test": "echo \"Error: no test specified\" && exit 0"
+                    
+          },
+          "repository": {
+                "type": "git",
+                    "url": "git+https://github.com/zn1121/books.git"
+                        
+          },
+            "author": "zn1121",
+              "license": "MIT",
+              "bugs": {
+                    "url": "https://github.com/zn1121/books/issues"
+                        
+              },
+                "homepage": "https://github.com/zn1121/books#readme",
+                "devDependencies": {
+                          "gitbook-cli": "^2.3.2"
+                }
+
+}
+
